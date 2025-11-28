@@ -1,0 +1,44 @@
+{
+  "appareils": [
+    {
+      "uid": "16875d13-f2c9-4f33-942d-831dc13c9c4b",
+	  "uid_g": "0bb708e8-f19d-40cd-afc9-09a7c84462ed",
+      "num_app":1
+    },
+    {
+      "uid": "0415df79-059f-467d-a8ba-3340b8cd5c8e",
+	  "uid_g": "0bb708e8-f19d-40cd-afc9-09a7c84462ed",
+      "num_app":2
+    },
+    {
+      "uid": "ed233717-b7e3-47f2-9019-318333f5385f",
+	  "uid_g": "9e54dab3-fc59-4d81-830d-846088738882",
+      "num_app":1
+    },
+    {
+      "uid": "a78e493e-2b08-4bf5-991c-db806b21fad2",
+	  "uid_g": "08eee10d-2385-4757-af4a-e96d7b758e58",
+      "num_app":1
+    },
+    {
+      "uid": "6d546560-df71-48c3-bbbb-221b5ab4b273",
+	  "uid_g": "08eee10d-2385-4757-af4a-e96d7b758e58",
+      "num_app":2
+    },
+    {
+      "uid": "9723c5e6-fb46-45b9-b4b7-4a56f66dd189",
+	  "uid_g": "08eee10d-2385-4757-af4a-e96d7b758e58",
+      "num_app":3
+    },
+    {
+      "uid": "bdc9297a-0e12-46ab-b493-8d671841c55f",
+	  "uid_g": "462291e3-b2df-4f54-b62f-952bbe8e87f0",
+      "num_app":1
+    },
+    {
+      "uid": "0a99de21-8625-4b9a-9223-6e66398487b4",
+	  "uid_g": "f6130bd3-b7a3-4a62-bec4-8763c89e6731",
+      "num_app":1
+    }
+  ],
+}
